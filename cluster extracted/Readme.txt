@@ -1,6 +1,7 @@
 Notes:
 1. Currently, the clustering is being done text(.txt) files only.
 2. This software is for Windows OS only
+3. You must have the required packages installed to run the script.  
 
 Instruction for running document Clustering script
 1. Double-click respective batch(.bat) file for running either clustering with Gibbs or with VEM.
